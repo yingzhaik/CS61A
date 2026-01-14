@@ -1,1 +1,0 @@
-This project is used for studying CS61A by mself
