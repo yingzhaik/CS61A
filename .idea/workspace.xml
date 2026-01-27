@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea89c76-a84f-4e1a-a0ae-93846b81269c" name="Changes" comment="homework01 finished">
-      <change afterPath="$PROJECT_DIR$/hw02/.ok_history" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw02/.ok_messages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw02/.ok_storage.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw02/construct_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw02/hw02.ok" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw02/hw02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw02/ok" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02/hw02.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +98,9 @@
       <workItem from="1769233483370" duration="499000" />
       <workItem from="1769234147022" duration="699000" />
       <workItem from="1769240969472" duration="1515000" />
+      <workItem from="1769242506390" duration="481000" />
+      <workItem from="1769314277295" duration="3332000" />
+      <workItem from="1769489001231" duration="1022000" />
     </task>
     <task id="LOCAL-00001" summary="homework01 finished">
       <option name="closed" value="true" />
@@ -120,11 +118,30 @@
       <option name="project" value="LOCAL" />
       <updated>1769241380582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="homework01 finished">
+      <option name="closed" value="true" />
+      <created>1769242542641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769242542641</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework01 finished" />
