@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ea89c76-a84f-4e1a-a0ae-93846b81269c" name="Changes" comment="homework01 finished">
+    <list default="true" id="5ea89c76-a84f-4e1a-a0ae-93846b81269c" name="Changes" comment="homework02 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw02/hw02.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/ying/Study/CS61A&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -100,7 +99,10 @@
       <workItem from="1769240969472" duration="1515000" />
       <workItem from="1769242506390" duration="481000" />
       <workItem from="1769314277295" duration="3332000" />
-      <workItem from="1769489001231" duration="1022000" />
+      <workItem from="1769489001231" duration="1230000" />
+      <workItem from="1769563079596" duration="2243000" />
+      <workItem from="1769825830857" duration="3081000" />
+      <workItem from="1769912068986" duration="2181000" />
     </task>
     <task id="LOCAL-00001" summary="homework01 finished">
       <option name="closed" value="true" />
@@ -126,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769242542641</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework02 finished">
+      <option name="closed" value="true" />
+      <created>1769490918087</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769490918087</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +155,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework01 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework01 finished" />
+    <MESSAGE value="homework02 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework02 finished" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS61A$main.coverage" NAME="main Coverage Results" MODIFIED="1768374655215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
